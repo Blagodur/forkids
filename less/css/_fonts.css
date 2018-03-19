@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Circe-Regular', sans-serif;
+  src: url('../fonts/Circe-Regular.woff2') format('woff2'), url('../fonts/Circe-Regular.woff') format('woff'), url('../fonts/Circe-Regular.ttf') format('truetype'), url('../fonts/Circe-Regular.svg#Circe-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ArciformSanscyr-lat-Regular';
+  src: url('../fonts/ArciformSanscyr-lat-Regular.woff2') format('woff2'), url('../fonts/ArciformSanscyr-lat-Regular.woff') format('woff'), url('../fonts/ArciformSanscyr-lat-Regular.ttf') format('truetype'), url('../fonts/ArciformSanscyr-lat-Regular.svg#ArciformSanscyr-lat-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
